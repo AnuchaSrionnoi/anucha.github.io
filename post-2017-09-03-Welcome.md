@@ -1,0 +1,39 @@
+---
+layout: post
+title: Welcome to Anucha Blog.
+date: 2017-09-3 09.07
+categories: My Blog
+---
+![Baek ji heon](https://img-wongnai.cdn.byteark.com/p/l/2016/11/29/15ff08373d31409fb2f80ebf4623589a.jpg)
+# อาหารที่ชอบ
+## ส้มตำไก่ย่าง ข้าวเหนียว
+### ทอดไข่ ตุ๋นไข่ เจียวไข่ ไข่ดาว
+#### เครื่องดื่มที่ชอบ
+##### น้ำเปล่า ชาเย็น ชาเขียว ชามะนาว
+
+
+[I'm an inline-style link](https://www.google.com)
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+
+var s = "JavaScript syntax highlighting";
+alert(s);
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
